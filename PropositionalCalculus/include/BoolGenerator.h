@@ -4,7 +4,6 @@
 #include <string>
 #include <iomanip>
 #include <vector>
-#include <map>
 
 #include "PropVar.h"
 
